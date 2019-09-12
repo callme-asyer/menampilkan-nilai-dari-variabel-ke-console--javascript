@@ -1,0 +1,1 @@
+# menampilkan-nilai-dari-variabel-ke-console--javascript
